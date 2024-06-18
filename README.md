@@ -2,8 +2,8 @@
 
 [To be completed...]
 
-Video Demonstration:https://youtube.com/shorts/
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/XIreGbS_u8I?si=q1231NcaqTH97fq0/0.jpg)](http://www.youtube.com/watch?v=XIreGbS_u8I?si=q1231NcaqTH97fq0 "Cyber-Cat")
+Video Demonstration:
+[![IMAGE ALT TEXT]([http://img.youtube.com/vi/XIreGbS_u8I?si=q1231NcaqTH97fq0/0.jpg](https://img.youtube.com/vi/XIreGbS_u8I/0.jpg))](https://www.youtube.com/shorts/XIreGbS_u8I)
 
 ## Ultrasonic Sensor
 
