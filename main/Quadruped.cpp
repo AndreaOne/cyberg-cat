@@ -121,12 +121,14 @@ void Quadruped::IK(){
 //  Serial.println("finshed moving");
 }
 
+//change
 void Quadruped::IK_one_leg(String leg, float x, float y, float z){
   if (leg == "rf"){
     local_frames.rf.x += x;
     local_frames.rf.y += y;
     local_frames.rf.z += z;
   }
+  //and
   else if (leg == "lf"){
     local_frames.lf.x += x;
     local_frames.lf.y += y;
@@ -185,9 +187,9 @@ void Quadruped::translate_cog(float x, float z){
   cog_x += x;
   cog_z += z;
 
-  Serial.print(cog_x);
-  Serial.print(", ");
-  Serial.println(cog_z);
+  // Serial.print(cog_x);
+  // Serial.print(", ");
+  // Serial.println(cog_z);
   
   local_frames.rf.x -= x;
   local_frames.lf.x -= x;
@@ -201,6 +203,7 @@ void Quadruped::translate_cog(float x, float z){
 
   IK();
 }
+
 
 void Quadruped::translate_cog_on_support_polygon(String swing_leg){
   float support_polygon_centroid_x;

@@ -30,7 +30,9 @@ class Quadruped{
     float cog_y = 60.0;
   
     int servo_pins[12] = {4, 3, 2, 7, 6, 5, 10, 8, 9, 13, 12, 11};
-    int zero_positions[12] = {83, 89, 164, 85, 93, 3, 102, 90, 15, 90, 99, 175}; 
+    //int zero_positions[12] = {60, 70, 80, 80, 130, 140, 50, 130, 80, 2, 50, 80}; 
+
+    int zero_positions[12] = {60, 100, 160, 60, 80, 20, 32, 40, 37, 2, 123, 180};
 
     Servo rfh1, rfh2, rfk, lfh1, lfh2, lfk, rbh1, rbh2, rbk, lbh1, lbh2, lbk;
 
