@@ -2,7 +2,8 @@
 
 [To be completed...]
 
-![video](cyberg_cat_demo.mov)
+Video Demonstration:https://youtube.com/shorts/
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XIreGbS_u8I?si=q1231NcaqTH97fq0/0.jpg)](http://www.youtube.com/watch?v=XIreGbS_u8I?si=q1231NcaqTH97fq0 "Cyber-Cat")
 
 ## Ultrasonic Sensor
 
