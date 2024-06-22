@@ -1,6 +1,6 @@
 # Quadrupled Robot Cat with Ultrasonic Obstacle Detection
 
-3D-modelled a cat head to hold an ultrasonic sensor. Writing code to detect obstacles and stop stepping forward when detecting one.
+3D-modelled a cat head to hold an ultrasonic sensor. Writing code to detect obstacles and stop stepping forward when detecting one. The cat head stl file has been attached, I designed the size just for the HC-SR04 ultrasonic sensor. If you are using other ultrasonic sensors please check the size before printing the head out.
 
 Video Demonstration:
 
